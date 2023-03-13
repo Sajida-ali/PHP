@@ -1,0 +1,54 @@
+table{
+    border: 2px solid white;
+    margin: auto;
+    width: 70%;
+    margin-top: 50px;
+    font-family: cursive;
+}
+th{
+    height: 50px;
+}
+th,td{
+    border: 2px solid white;
+    text-align: center;
+
+
+}
+.container {
+    margin: auto;
+    margin-top: 100px;
+    background-color: black;
+    color: white;
+    width: 400px;
+    height:400px;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+input[tybe='submit'],input[type='hidden'] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    color: white;
+}
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    color: white;
+}
+.f {
+    color: white;
+    border: 3px solid white;
+    margin: auto;
+    width: 500px;
+    margin-top: 90px;
+    font-family: cursive;
+}
